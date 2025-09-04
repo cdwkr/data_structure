@@ -59,7 +59,7 @@ int main()
 
 # 이미지
 
-![이미지](./img.png)
+![이미지](./image.png)
 
 
 readme
