@@ -44,7 +44,7 @@ int main()
 
 # 외부 링크
 
-[구글로 가기](google.com "구글링크")
+[구글로 가기](https://google.com "구글링크")
 
 
 readme
