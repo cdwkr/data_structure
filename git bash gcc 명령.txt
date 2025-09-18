@@ -1,0 +1,7 @@
+gcc -o test3 test3.c
+
+cd C:/Users/USER/Desktop/data_structure/project_2/
+
+cd project_2
+
+cd .. : 현재 폴더의 상위 폴더로 이동합니다.
